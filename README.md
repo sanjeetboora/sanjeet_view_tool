@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+SanjeetViewTool::Renderer.copyright 'Sanjeet', "All rights reserved"
+```
 
 ## Development
 
